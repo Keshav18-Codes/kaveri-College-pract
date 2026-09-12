@@ -1,0 +1,47 @@
+.starting-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.starting-page .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+}
+
+.starting-page .overlap-group {
+    position: relative;
+    height: 1260px;
+    top: -236px;
+}
+
+.starting-page .parade {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 236px;
+    left: 0;
+}
+
+.starting-page .transparent-logo {
+    position: absolute;
+    width: 610px;
+    height: 736px;
+    top: 380px;
+    left: 415px;
+    object-fit: cover;
+}
+
+.starting-page .rectangle {
+    position: absolute;
+    width: 188px;
+    height: 240px;
+    top: 0;
+    left: 626px;
+    background-color: #fdfdfd;
+    border-radius: 35px;
+    box-shadow: 0px 3px 4px #00000040;
+}

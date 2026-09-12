@@ -1,0 +1,1 @@
+//write a pragram which accepts a sentence from the user and alters it as follows: Every space is replaced by * case of all alphabets is reversed digits are replaced by ?.
